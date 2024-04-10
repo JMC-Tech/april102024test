@@ -1,0 +1,12 @@
+CATCH UP WITH SIR ROBERT
+
+-the import page should not be with the same tab.
+-import 
+-remove the UUID in url, change to project name
+-remove instructions and be in the tooltip
+-return to 'Project Dashboard'
+-change 
+
+-alignment with the user story and acceptance criteria 
+
+-create mockup for the import test case on the test case listing page without test cases
